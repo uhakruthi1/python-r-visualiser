@@ -64,7 +64,7 @@
         -- Always keep the placeholder __OUTPUT__ without the extension in R if you're adding .png or .html manually.
         -- In Python, just keep the full "__OUTPUT__" and append .png/.html in the backend when replacing it.
 
-![Plot Preview](assets/plot1.png)
+![Plot Preview](assets/Screenshot%202025-04-15%20at%201.50.07%20PM.png)
 
 
 
