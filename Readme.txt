@@ -64,7 +64,7 @@
         -- Always keep the placeholder __OUTPUT__ without the extension in R if you're adding .png or .html manually.
         -- In Python, just keep the full "__OUTPUT__" and append .png/.html in the backend when replacing it.
 
-![Alt Image text](<assets/Screenshot 2025-04-15 at 1.50.07 PM.png> "Optional Title")
+![Alt Image text](<assets/plot1.png> "Optional Title")
 
 
 📬 Contact
